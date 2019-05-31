@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Urban.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6797E0CC205D3A6E087E138191F5188E0D3A23D4</string>
+				<key>dateExpires</key>
+				<string>25/04/2020</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>F9YUNSPLA8.org.reactjs.native.example.Urban</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>F9YUNSPLA8</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>F9YUNSPLA8.org.reactjs.native.example.Urban</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Urban.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4c7a9689-c473-4f0d-8c18-b9ae127fdc5b</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>F9YUNSPLA8</string>
+				<key>name</key>
+				<string>WDY UK LIMITED</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
